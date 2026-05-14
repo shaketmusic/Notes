@@ -1,7 +1,5 @@
 
 
----
-
 # Power Source
 
 - Never connect any of the circuits nor experiment with a high-voltage (e.g., “mains”, household) power supply/source.

@@ -1,5 +1,4 @@
 
----
 # Git
 
 ## Working with .gitignore
@@ -541,7 +540,7 @@ Notes:
         - In the terminal, navigate to the directory you assume to be the root of your local repo using the cd command. You can then run the `ls -A` command and check if there is a `.git` folder in that directory, or the git status command.
 3. If you have files in your repository that are larger than 100MB, such as long uncompressed audio files, 3D models, or videos, you will need to work with Git LFS (Large File Storage). To set LFS, you may follow the Git LFS guide I included below. In particular, look at the **Git LFS Tutorial** section.
     
-    [Git LFS](Git%20GitHub%20Resources.md) 
+    [Git LFS](Git%20&%20GitHub%20Resources.md) 
     
 4. Once you have unstaged the commit that can’t be pushed onto the remote repo, verified that your `.gitignore` is both the correct one and in the right place, and setup Git LFS if you need it, you can once again add, commit, and push your repository changes. The commands below must be executed at the root level of your repository.
     1. Stage all files for a commit: `git add -A` 

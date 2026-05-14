@@ -1,7 +1,5 @@
 
 
----
-
 # General
 
 - [Getting Started Portal](https://dev.epicgames.com/community/unreal-engine/getting-started/games)

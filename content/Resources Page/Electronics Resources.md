@@ -1,5 +1,4 @@
 
----
 # Fundamentals
 
 ## Part 1 – Electricity, Resistors, Batteries, Switches

@@ -8,7 +8,7 @@ title: Resources Page
 
 [[Max For Live Resources]]
 
-[Git/GitHub Resources](Git%20GitHub%20Resources.md)
+[Git/GitHub Resources](Git%20&%20GitHub%20Resources.md)
 
 [Pro Tools Resources](Pro%20Tools%20Resources.md)
 
