@@ -1,4 +1,3 @@
-
 # General
 
  [Circuit Bending Wiki](https://circuitbending.miraheze.org/wiki/Main_Page)
@@ -7,40 +6,27 @@
 
 ## Circuit-Bending – Build Your Own Alien Instruments, Reed Ghazala, 2005
 
-- Full Text
-    
-    [Circuit-Bending - Build Your Own Alien Instruments - Reed Ghazala.pdf](Circuit-Bending_-_Build_Your_Own_Alien_Instruments_-_Reed_Ghazala.pdf)
-    
-- Appendix A – One Dozen of the Best Generic Bends
-    
-    [12 Generic Bends - Circuit-Bending - Build Your Own Alien Instruments - Reed Ghazala.pdf](12_Generic_Bends_-_Circuit-Bending_-_Build_Your_Own_Alien_Instruments_-_Reed_Ghazala.pdf)
-    
+Full text -  [Circuit-Bending - Build Your Own Alien Instruments - Reed Ghazala.pdf](Circuit-Bending_-_Build_Your_Own_Alien_Instruments_-_Reed_Ghazala.pdf)    
+Appendix - [12 Generic Bends - Circuit-Bending - Build Your Own Alien Instruments - Reed Ghazala.pdf](12_Generic_Bends_-_Circuit-Bending_-_Build_Your_Own_Alien_Instruments_-_Reed_Ghazala.pdf)
+
 
 ## Handmade Electronic Music (1st Edition), Nicolas Collins, 2006
 
-- Full Text
-    
-    [Handmade Electronic Music - Nicolas Collins.pdf](Handmade_Electronic_Music_-_Nicolas_Collins.pdf)
-    
-- The Seven Basic Rules of Hacking
-    
-    [TheSevenBasicRulesofHacking_NicolasCollins.pdf](Circuit-Bending_Rules.pdf)
-    
-- Tickle the Clock, Hack the Clock, Ohm’s Law for Dummies
-    
-    [TickleTheClock_HackTheClock_OhmsLawForDummies-HandmadeElectronicMusic-Nicolas Collins.pdf](Tickle_the_Clock_-_Handmade_Electronic_Music_-_Nicolas_Collins.pdf)
-    
+Full text -  [Handmade Electronic Music - Nicolas Collins.pdf](Handmade_Electronic_Music_-_Nicolas_Collins.pdf)
+
+The Seven Basic Rules of Hacking - [TheSevenBasicRulesofHacking_NicolasCollins.pdf](Circuit-Bending_Rules.pdf)
+
+Tickle the Clock, Hack the Clock, Ohm’s Law for Dummies -[TickleTheClock_HackTheClock_OhmsLawForDummies-HandmadeElectronicMusic-Nicolas Collins.pdf](Tickle_the_Clock_-_Handmade_Electronic_Music_-_Nicolas_Collins.pdf)
+
 
 ## Hardware Hacking, Nicolas Collins, 2004
 
-- Full Text
-    
-    [HardwareHacking-NicolasCollins.pdf](HardwareHacking-NicolasCollins.pdf)
-    
+[HardwareHacking-NicolasCollins.pdf](HardwareHacking-NicolasCollins.pdf)
+
 
 ## Circuit Bending, Nicolas Collins, 2006
 
-- [Full Text](https://www.handmadeelectronicmusic.com/texts/circuitbending.pdf)
+[Full Text](https://www.handmadeelectronicmusic.com/texts/circuitbending.pdf)
 
 # Reed Ghazala
 
