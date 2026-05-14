@@ -3,5 +3,9 @@ title: Welcome to Shaket Notes
 ---
 Here you can find all kind of useful stuff I collected over the years
 
+[[Music Production/index|Music production]]
 
-[General Resources](Resources Page/index)
+[[Resources Page/index|General Resources]]
+
+
+
