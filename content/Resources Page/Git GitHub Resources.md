@@ -1,9 +1,5 @@
-# Git/GitHub Resources
-
-- Table of Contents
 
 ---
-
 # Git
 
 ## Working with .gitignore

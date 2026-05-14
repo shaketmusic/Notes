@@ -5,8 +5,6 @@
 
 </aside>
 
-- Table of Contents
-
 ---
 
 # Audiokinetic Certification Courses

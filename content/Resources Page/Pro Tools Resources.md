@@ -1,9 +1,11 @@
-# Pro Tools Resources
+
 
 <aside>
 💡 The following are resources have been useful to me when learning and exploring Pro Tools.
 
 </aside>
+
+---
 
 # Reference
 

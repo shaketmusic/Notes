@@ -1,4 +1,5 @@
-# Max For Live Resources
+
+---
 
 ## Live API Documentation
 

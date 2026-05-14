@@ -1,7 +1,5 @@
 
 
-- Table of Contents
-
 ---
 
 # Power Source

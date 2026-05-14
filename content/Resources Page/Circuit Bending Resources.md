@@ -1,9 +1,5 @@
-# Circuit Bending Resources
-
-- Table of Contents
 
 ---
-
 # General
 
 - [Circuit Bending Wiki](https://circuitbending.miraheze.org/wiki/Main_Page)

@@ -1,7 +1,4 @@
 
-
-- Table of Contents
-
 ---
 
 # General

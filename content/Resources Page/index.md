@@ -1,4 +1,7 @@
-
+---
+title: Resources Page
+---
+---
 ### Software resources
 
 [[Max MSP Resources]]

@@ -1,6 +1,8 @@
-# Max MSP Resources
 
+<aside>
 Credit to professor David Cardona
+</aside>
+---
 
 # Learn
 

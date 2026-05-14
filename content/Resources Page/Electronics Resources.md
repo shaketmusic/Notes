@@ -1,9 +1,5 @@
-# Electronics Resources
-
-- Table of Contents
 
 ---
-
 # Fundamentals
 
 ## Part 1 – Electricity, Resistors, Batteries, Switches

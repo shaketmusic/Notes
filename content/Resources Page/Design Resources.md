@@ -1,9 +1,5 @@
-# Design Resources
-
-- Table of Contents
 
 ---
-
 # Design Thinking
 
 - [HBS – What is Design Thinking & Why is it Important?](https://online.hbs.edu/blog/post/what-is-design-thinking)

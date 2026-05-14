@@ -1,6 +1,4 @@
-# TouchDesigner Resources
 
-- Table of Contents
 
 ---
 
