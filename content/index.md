@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Shaket Notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here you can find all kind of useful stuff I collected over the years
