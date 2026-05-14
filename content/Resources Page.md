@@ -1,9 +1,9 @@
 
 ### Software resources
 
-[Max MSP Resources](Max%20MSP%20Resources.md)
+[[Max MSP Resources]]
 
-[Max For Live Resources](Max%20For%20Live%20Resources.md)
+[[Max For Live Resources]]
 
 [Git/GitHub Resources](Git%20GitHub%20Resources.md)
 
