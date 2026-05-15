@@ -7,4 +7,4 @@ title: Music Production
 |                           Music production                            | Mixing | Songwriting |
 | :-------------------------------------------------------------------: | ------ | ----------- |
 | [[Music Production/The Producer Discipline\|The Producer Discipline]] |        |             |
-|               [[Music Production/Synthesis\|Synthesis]]               |        |             |
+|               [[Synthesis Part 1\|Synthesis]]               |        |             |
