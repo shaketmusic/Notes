@@ -29,3 +29,7 @@
 - When trying to learn from others, don’t try to recreate just one sound. A lot of the times sounds make so much more sense in a context of a full produciton. They are working not only because of how they sound, but also because everything else compliments them. Try to do a sound alike production and you’ll learn a lot. 
 
 - When you teach someone you get a lot better. Find someone starting out and help them. It's what this site is all about, so if you found anything valuable here pass it along.
+
+[[Synthesis Overview|Next]]
+[[Arrangement Advice|Previous]]
+[[Music Production/index|Back]]

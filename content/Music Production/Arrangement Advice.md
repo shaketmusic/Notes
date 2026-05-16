@@ -24,3 +24,8 @@ Arrangement, in my experience, is often one of the most obvious differences betw
 - Put cool sound snippets in a drum rack, have them all on the same choke group and play. Really good for live drops, especially dubstep.
 
 - Use silence. Even mute the entire track
+
+---
+
+[[Getting Better|Next]]
+[[Arrangement Advice|Previous]]

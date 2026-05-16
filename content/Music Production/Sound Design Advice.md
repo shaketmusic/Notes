@@ -21,3 +21,11 @@
 - Make “sample packs” of you noodling with sound design (for each chord of your arrangement), then pick and choose the best takes as a collage. If you rename the track between each chord the file names would make sense. Look for moments using SHIFT+Drag
 
 - Gain + Level compensator trick: Take two utilities, group together and map their gain to the same macro. Invert one of them and put the OTT/Drive/Saturator in the middle.
+
+---
+
+[[Arrangement Advice|Next]]
+[[General Drum Advice|Previous]]
+[[Music Production/index|Back]]
+
+

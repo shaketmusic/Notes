@@ -46,3 +46,7 @@ Our ears are invaluable, but they can also lie, be imprecise or get used to cert
 - [MOscilloscpe](https://www.meldaproduction.com/MOscilloscope) - An Oscilloscpe. Also look at [Scyllascope](https://dsgdnb.com/plugins/scyllascope)
 
 - Use a **View track** (a resampled track of the master that you record to and inspect)
+
+---
+[[General Drum Advice|Next]] 
+[[Music Production/index|Previous]]

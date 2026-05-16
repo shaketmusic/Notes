@@ -23,6 +23,8 @@ Every method has its advantages and disadvantages, so use both.
 
 **Drum Synthesis** - A good way to learn drum synthesis is to try to copy other samples.
 
+### Table of Contents
+
 1. [[General Drum Advice]]
 2. [[Creating Kicks]]
 3. [[Creating Snares]]

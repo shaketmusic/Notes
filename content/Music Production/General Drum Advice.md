@@ -44,3 +44,9 @@ While the main elements repeat, we add small elements that add variation, like a
 
 ### Tuning the Drums
 A **pitch shifter** maintains the frequency content and relations of the sound - multiplication. A **frequency shifter** will move every frequency by the same amount - addition. When you pitch something, the higher frequencies move a lot less than the lows (preception-wise), so when we want to tune drums, it’s a better idea to use a frequency to preserve the character and tone of the drum.
+
+---
+
+[[Sound Design Advice|Next]]
+[[The Producer Discipline|Previous]]
+[[Music Production/index|Back]]
