@@ -5,7 +5,7 @@
 What is the role of a music producer? Sound designer? Arranger? Coach? 
 All of the above and more, of course. But also non of the above. In the 10 years that I've been producing, I've come to learn that a music producer's job is simple understand, yet hard to achieve - **To understand the idea driving the song, and realize it into reality**.
 
-
+---
 
 ### General Advice for any producer
 
@@ -25,7 +25,7 @@ All of the above and more, of course. But also non of the above. In the 10 years
 	Like cooking, to get depth of sound design use multiple processes. Chop, cook, bake, fry - Bounce, Process, sample, Bounce again….
 
 
-
+---
 ### Analyzing
 
 - Reference tracks are really useful when you try to analyze why your track doesn’t work. 
