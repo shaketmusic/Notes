@@ -19,3 +19,9 @@ The Mudpie should be edited, not to sound good as it is. We take the best parts,
 
 **Quick tip** -
 You can also take a small snippet and drug it into Serum to create a new wavetable. If the wavetable is phasing, you can **set phases this frame to all** under **process all** in the advanced editing. Also do **normalize each to gain separately.** Maybe use the wavetable to FM the second oscillator?
+
+---
+
+[[Reese Bass]]
+[[Distortion]]
+[[Music Production/index|Back]]

@@ -33,3 +33,8 @@ When we think about modulation, we usually think about a modulator modulation an
 
 - Arpeggiators, LFO rates, Envelope stages times, Modulation amounts are all great modulation destinations.
 
+---
+
+[[Distortion]]
+[[Pitch Modulation]]
+[[Music Production/index|Back]]

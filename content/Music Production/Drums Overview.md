@@ -29,3 +29,10 @@ Every method has its advantages and disadvantages, so use both.
 2. [[Creating Kicks]]
 3. [[Creating Snares]]
 4. [[Creating Claps and Hats]]
+
+
+---
+
+[[Synthesis Overview]]
+[[Reverb Hygiene]]
+[[Music Production/index|Back]]

@@ -11,3 +11,9 @@ Multiple voices that are slightly different in pitch, and timing. It’s a conce
 - Make sure you’re voices’ phases are aligned (or not) the way you want them. You can control this by not making your oscillators free running. In serum you can turn random phase to 0.
 
 - Try to do unison with phase locked. Sounds close to a comb delay.
+
+---
+
+[[Synthesis Overview]]
+[[Reese Bass]]
+[[Music Production/index|Back]]

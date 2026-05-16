@@ -8,3 +8,10 @@ When we need a different sound for the song, it’s more efficient and musically
 - Group the sounds together and process them as a group (OTT, reverb, Multiband Compression, Saturator, side chain). That way they all feel like they are from the same place.
 
 - You can use it to make more interesting chords: Have four variations and have each of them play one voice of a chord underneath a simple pad with reverb.
+
+
+---
+
+[[Acid Bass & Plucks]]
+[[Drums Overview]]
+[[Music Production/index|Back]]

@@ -48,5 +48,6 @@ Our ears are invaluable, but they can also lie, be imprecise or get used to cert
 - Use a **View track** (a resampled track of the master that you record to and inspect)
 
 ---
-[[General Drum Advice|Next]] 
-[[Music Production/index|Previous]]
+
+[[Sound Design Advice]] 
+[[Music Production/index|Back]]

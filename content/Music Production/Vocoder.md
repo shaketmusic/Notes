@@ -36,3 +36,13 @@ One signal is a carrier and the second is the modulator – modulates the carrie
 - **Enhance** helps with bad carriers**.** It tries to normalize the carrier. Most times it’s best to just pick a better carrier.
 
 - **Unvoiced** adds some noise on the s’ to add intelligibility.
+
+
+
+---
+
+
+[[The Fake Mic (and more reverb tricks)]]
+[[Vocoder Tips and Techniques]]
+[[Music Production/index|Back]]
+

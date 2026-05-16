@@ -16,3 +16,9 @@ For a more modern pluck, You can use two envelopes for the filter and volume ind
 Neither is better, it’s an arrangement thing – do we need the bass or do we have other bass parts?
 
 In any case, Instead of modulating only the filter cuttof, **modulate both the filter and the filter Env decay** using a macro.
+
+---
+
+[[Key Tracking]]
+[[The Offspring Theory]]
+[[Music Production/index|Back]]

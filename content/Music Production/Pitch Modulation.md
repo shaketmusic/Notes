@@ -13,3 +13,9 @@ If you want to make something percussive, use a pitch envelope. This is how perc
 - **“Analog feel”** – make two sine oscillators, take the chaos oscillator from the LFO and modulate with the x axis the fine tune of oscillator A and y oscillator B. **There’s a built in Random modulation in Serum 2 in the Global menu.** This helps vocals blend better because the tuning is more forgiving.
 
 -  You can put an inverted envelope pitch modulation on your R&B Pad.
+
+---
+
+[[Modulation]]
+[[Key Tracking]]
+[[Music Production/index|Back]]

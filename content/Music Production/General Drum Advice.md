@@ -47,6 +47,6 @@ A **pitch shifter** maintains the frequency content and relations of the sound -
 
 ---
 
-[[Sound Design Advice|Next]]
-[[The Producer Discipline|Previous]]
+[[Drums Overview]]
+[[Creating Kicks]]
 [[Music Production/index|Back]]

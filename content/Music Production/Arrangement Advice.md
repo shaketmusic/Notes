@@ -27,5 +27,6 @@ Arrangement, in my experience, is often one of the most obvious differences betw
 
 ---
 
-[[Getting Better|Next]]
-[[Arrangement Advice|Previous]]
+[[Sound Design Advice]]
+[[Getting Better]]
+[[Music Production/index|Back]]

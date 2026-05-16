@@ -17,3 +17,10 @@ We will use Ableton's **Operator** to create the claps and hats, but this advice
 1. Short bursts of noise
 2. High pas filter
 3. Attach an envelope for the filter and velocity to the length of the envelope
+
+
+---
+
+[[Creating Snares]]
+[[Drum Processing]]
+[[Music Production/index|Back]]

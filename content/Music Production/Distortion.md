@@ -14,3 +14,9 @@ Every analog sound has distortion. So to make the production sound more real we 
 2. You can then put two LFOs on the two sine levels. You can also put macros on the second sine’s course and fine tune to have variation of the sound.
 
 3. Modulate the LFO shape to add variation.
+
+---
+
+[[Neuro Bass]]
+[[Modulation]]
+[[Music Production/index|Back]]

@@ -30,6 +30,8 @@
 
 - When you teach someone you get a lot better. Find someone starting out and help them. It's what this site is all about, so if you found anything valuable here pass it along.
 
-[[Synthesis Overview|Next]]
-[[Arrangement Advice|Previous]]
+---
+
+[[Arrangement Advice]]
+[[Synthesis Overview]]
 [[Music Production/index|Back]]

@@ -3,4 +3,10 @@ When we’re processing drums, we need to think about **length of frequencies** 
 1. [[Processing Kicks]]
 2. [[Improving Synthesized Snares]]
 3. [[Dispersion]]
-4. 
+
+
+---
+
+[[Drums Overview]]
+[[Reverb Hygiene]]
+[[Music Production/index|Back]]

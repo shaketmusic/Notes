@@ -21,3 +21,10 @@
 5. Cut the low end only after the attack stage to remove the low end rumble.
 
 You can also splice kicks together – take the attack stage of one kick and put the body stage of another.
+
+
+---
+
+[[Drum Processing]]
+[[Improving Synthesized Snares]]
+[[Music Production/index|Back]]

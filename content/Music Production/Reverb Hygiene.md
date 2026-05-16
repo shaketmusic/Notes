@@ -32,3 +32,12 @@ They create unnecessary noise that can kill the clarity.
 Group the instrument with a short noise burst. Side chain compress the reverb with the noise trigger, and make sure you remove the transient. You can also use for phasers, flangers.
 
 - You can process only the transient by swapping the compressor with a gate.
+
+
+
+---
+
+
+[[Dispersion]]
+[[The Fake Mic (and more reverb tricks)]]
+[[Music Production/index|Back]]

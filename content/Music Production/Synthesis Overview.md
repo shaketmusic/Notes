@@ -33,5 +33,11 @@
 5. [[Modulation]]
 6. [[Pitch Modulation]]
 7. [[Key Tracking]]
-8. [[Acid & Plucks]]
+8. [[Acid Bass & Plucks]]
 9. [[The Offspring Theory]]
+
+---
+
+[[The Producer Discipline]]
+[[Drums Overview]]
+[[Music Production/index|Back]]

@@ -17,3 +17,9 @@ The problem with Reese Bass is the phase relations that are uneven. To combat th
 - You can add movement to the Reese bass by modulating the detune amount, add and move a notch filter, chorus, flanger, phaser, distortion
 
 - Because the Reese Bass was originally sampled, its more characteristic to make one note and sample it. Looping also helps the sound be more authentic. Then you can process it with Multiband Compression/Saturation etc.
+
+---
+
+[[Unison]]
+[[Neuro Bass]]
+[[Music Production/index|Back]]

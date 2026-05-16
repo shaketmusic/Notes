@@ -45,3 +45,8 @@ We through the whole vocals to drum rack. Gate mode, warp on. Find a cool snippe
 ![[Vocoder Reverb Automation.png]]
 
 
+---
+
+[[Vocoder Tips and Techniques]]
+[[Lo-Fi]]
+[[Music Production/index|Back]]

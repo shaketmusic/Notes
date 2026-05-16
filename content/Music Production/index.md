@@ -7,22 +7,22 @@ title: Music Production
 |    Chapter     | Issue                                                                 |
 | :------------: | --------------------------------------------------------------------- |
 |  **General**   | [[Music Production/The Producer Discipline\|The Producer Discipline]] |
-|                | [[General Drum Advice]]                                               |
 |                | [[Sound Design Advice]]                                               |
 |                | [[Arrangement Advice]]                                                |
 |                | [[Getting Better]]                                                    |
 |                |                                                                       |
 | **Synthesis**  | [[Synthesis Overview]]                                                |
+|                | [[Unison]]                                                            |
 |                | [[Reese Bass]]                                                        |
 |                | [[Neuro Bass]]                                                        |
 |                | [[Distortion]]                                                        |
 |                | [[Modulation]]                                                        |
 |                | [[Pitch Modulation]]                                                  |
 |                | [[Key Tracking]]                                                      |
-|                | [[Acid & Plucks]]                                                     |
+|                | [[Acid Bass & Plucks]]                                                     |
 |                | [[The Offspring Theory]]                                              |
-|                |                                                                       |
-|   **Drums**    | [[Drums Overview]]                                                    |
+|   **Drums**    |                                                                       |
+|                | [[Drums Overview]]                                                    |
 |                | [[General Drum Advice]]                                               |
 |                | [[Creating Kicks]]                                                    |
 |                | [[Creating Snares]]                                                   |
@@ -31,8 +31,8 @@ title: Music Production
 |                | [[Processing Kicks]]                                                  |
 |                | [[Improving Synthesized Snares]]                                      |
 |                | [[Dispersion]]                                                        |
-|                |                                                                       |
-| **Processing** | [[Reverb Hygiene]]                                                    |
+| **Processing** |                                                                       |
+|                | [[Reverb Hygiene]]                                                    |
 |                | [[The Fake Mic (and more reverb tricks)]]                             |
 |                | [[Vocoder]]                                                           |
 |                | [[Vocoder Tips and Techniques]]                                       |

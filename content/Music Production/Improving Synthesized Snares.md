@@ -17,13 +17,18 @@
 ![[Improving Snares 4.png]]
 
 5. Eq out the lows after the initial attack
-
 6. Overdrive to taste
-
 7. Remove the rumble with a HighPass Filter
-
 8. Compress
 
 ![[Improving Snares 8.png]]
 
 9. Clip
+
+
+
+---
+
+[[Processing Kicks]]
+[[Dispersion]]
+[[Music Production/index|Back]]

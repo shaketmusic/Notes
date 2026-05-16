@@ -18,3 +18,9 @@ Snare Body
 
 Snare reverb
 ![[Snare Reverb.png]]
+
+---
+
+[[Creating Kicks]]
+[[Creating Claps and Hats]]
+[[Music Production/index|Back]]

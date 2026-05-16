@@ -17,3 +17,11 @@ Untuned vocals or sources can make unpleasant, beating reverb. Th solution: put 
 ### End of Phrase Reverb
 
 A lot of EDM producers have a very long reverb chain that they automate in (mix is on zero and being automated) at the end of the phrase to create this reverse effect.
+
+
+
+---
+
+[[Reverb Hygiene]]
+[[Vocoder]]
+[[Music Production/index|Back]]

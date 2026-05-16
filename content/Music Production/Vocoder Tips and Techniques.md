@@ -43,3 +43,10 @@ This mode tracks the pitch of the modulator, generating a waveform the plays as 
 1. Make a super noisy sound (like in dubstep)
 2. Put the vocoder to modulate itself
 3. The noise is cleaner somewhat
+
+
+---
+
+[[Vocoder]]
+[[Vocal Chops]]
+[[Music Production/index|Back]]

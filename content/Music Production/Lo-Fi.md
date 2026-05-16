@@ -33,3 +33,7 @@ Take any song.
 5. OTT and Drum Buss
 
 Put the warping to texture mode and experiment with grain size
+
+
+[[Vocal Chops]]
+[[Music Production/index|Back]]

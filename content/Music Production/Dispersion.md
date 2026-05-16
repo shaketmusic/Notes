@@ -8,3 +8,10 @@ We can build that with multiband dynamic group. We map the high and low split fr
 ![[Dispersion 2.png]]
 
 We then use align delay to delay the lows by 12 ms and the meds by 6 ms. Now the attack is only the highs, followed by the meds and the lows.
+
+
+---
+
+[[Improving Synthesized Snares]]
+[[Reverb Hygiene]]
+[[Music Production/index|Back]]

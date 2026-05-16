@@ -25,3 +25,10 @@ The basic formula for a kick is a sine wave with a really fast pitch envelope. W
 7. Side chain to your actual kick
 
 ![[Rumble.png]]
+
+---
+
+
+[[General Drum Advice]]
+[[Creating Snares]]
+[[Music Production/index|Back]]

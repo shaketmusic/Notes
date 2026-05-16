@@ -24,8 +24,8 @@
 
 ---
 
-[[Arrangement Advice|Next]]
-[[General Drum Advice|Previous]]
+[[The Producer Discipline]]
+[[Arrangement Advice]]
 [[Music Production/index|Back]]
 
 
