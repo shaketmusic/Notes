@@ -5,7 +5,7 @@ Here you can find all kind of useful stuff I collected over the years producing 
 
 **What we have here:**
 [[Music Production/index|Music production]]
+[[Mixing/index|Mixing]]
 [[Resources Page/index|General Resources]]
-
 
 
