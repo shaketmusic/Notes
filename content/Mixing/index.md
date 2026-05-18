@@ -1,5 +1,5 @@
 ---
-Mixing:
+title: Mixing
 ---
 > *"If it sounds good, it IS good" - Duke Ellington*
 
